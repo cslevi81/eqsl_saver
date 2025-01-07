@@ -8,7 +8,7 @@ The **eqsl_saver** is a Python3-script, that save the eQSLs from eqsl.cc's Archi
 - [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/) module
 
 ## Usage
-1. Clone the repository or download the sdrangel_ft8_2_adif.py file.
+1. Clone the repository or download the eqsl_saver.py file.
 2. Open a terminal or command prompt and navigate to the directory, where the file is located.
 3. Run the following command to start the program - in Linux:
     ```
